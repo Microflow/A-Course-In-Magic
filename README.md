@@ -5,7 +5,7 @@
 
 <h4 style="font-family: "impact";" Hey Kids,</h4>
 
-<h2 style=”margin:0 0 0.5em 0;padding:0;color:#000000;font-family:’Helvetica Bold’,Helvetica,’Arial Bold’,Arial,sans-serif;font-weight:normal;font-style:normal;font-size:25px;line-height:27px;text-align:center;”>More Stories</h2>
+<h2 style=”margin:0 0 0.5em 0;padding:0;color:#000000;font-family:’Impact’,Helvetica,’Arial Bold’,Arial,sans-serif;font-weight:normal;font-style:normal;font-size:25px;line-height:27px;text-align:center;”>Hey Kids</h2>
 
 #### Welcome to the 113th course in magic. My name is Joffery Baggins, Elf Sorcerer Extraordinaire. You see that castle? I live on the top floor. In this course, we will learn how to build websites and apps. Websites and apps are the magical infrastructure that the world of humans runs on. 
 
