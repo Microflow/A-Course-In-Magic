@@ -11,4 +11,6 @@
 
 We are going to test your skills. Click on challenge one and open the editor. Don't let the simple colors fool you! We will look at websites of stunning beauty later. 
 
+## Tasks
+
 - Change the colors from red and yellow to navy and teal, or orange and green. Whatever you desire.
