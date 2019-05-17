@@ -21,6 +21,11 @@ We are going to test your skills. Click on challenge one and open the editor. Do
 
 - Make the animation slower. Hint, look for some numbers. 
 
+
+## Codepen. Background Colors. 
+
+https://codepen.io/Teeke/pen/yWbWwW
+
 Did you get it? Good. W3 schools is useful but the colors are a little ugly, right. So lets go to Codepen.
 
 
