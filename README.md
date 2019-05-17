@@ -24,8 +24,10 @@ We are going to test your skills. Click on challenge one and open the editor. Do
 
 ## Codepen. Background Colors. 
 
-https://codepen.io/Teeke/pen/yWbWwW
-
 Did you get it? Good. W3 schools is useful but the colors are a little ugly, right. So lets go to Codepen.
 
+Much prettier, right?
 
+https://codepen.io/Teeke/pen/yWbWwW
+
+In the W3 schools example, the colors were written red, yellow, green, blue etc. These are good but often a little too bright and ugly for modern tastes. 
