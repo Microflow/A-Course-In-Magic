@@ -32,4 +32,12 @@ https://codepen.io/Teeke/pen/yWbWwW
 
 In the W3 schools example, the colors were written red, yellow, green, blue etc. These are good but often a little too bright and ugly for modern tastes. 
 
-Check out lines 27 to 30. Play with the numbers you see. Try changing #fff to #f22, or something.
+Check out lines 27 to 30. Play with the numbers you see. Try changing #fff to #f22. See what happens. Webdev is about experimentation. 
+
+If you want some prettier colors try these sites:
+
+https://www.color-hex.com/color-palettes/
+
+https://logosbynick.com/nature-color-palette-hex/
+
+
