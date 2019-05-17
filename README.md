@@ -9,7 +9,7 @@
 
 # Challenge One. Entry Test
 
-[W3 Schools. Animation and Colors. Entry Test](https://www.w3schools.com/css/tryit.asp?filename=trycss3_animation1)
+## [W3 Schools. Animation and Colors. Entry Test](https://www.w3schools.com/css/tryit.asp?filename=trycss3_animation1)
 
 We are going to test your skills. Click on challenge one and open the editor. Don't let the simple colors fool you! We will look at websites of stunning beauty later. 
 
