@@ -1,2 +1,6 @@
-# A-Course-In-Magic
-Where we learn webdev and programming from zero!!!
+
+
+<p align="center">
+<img height="50%" src="http://i.imgur.com/xOzvODF.jpg">
+</p>
+
